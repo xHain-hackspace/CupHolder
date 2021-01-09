@@ -13,7 +13,7 @@
    version="1.1"
    preserveAspectRatio="xMidYMid meet"
    id="svg13"
-   sodipodi:docname="fernbedienung-halter.svg"
+   sodipodi:docname="RemoteHolder.svg"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07, custom)">
   <metadata
      id="metadata19">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,13 +43,14 @@
      id="namedview15"
      showgrid="false"
      inkscape:document-units="mm"
-     inkscape:zoom="2.0479582"
-     inkscape:cx="267.67333"
-     inkscape:cy="162.56953"
+     inkscape:zoom="2.2821751"
+     inkscape:cx="130.72836"
+     inkscape:cy="176.51929"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg13" />
+     inkscape:current-layer="svg13"
+     inkscape:document-rotation="0" />
   <path
      d="m 0,83 v 13.75 h 3 v 10.5 H 0 v 10.5 h 3 v 10.5 H 0 v 10.5 h 3 v 10.5 H 0 v 10.5 3.25 h 14.25 v -3 h 10.5 v 3 h 10.5 v -3 h 10.5 v 3 H 56.25 60 v -13.75 h -3 v -10.5 h 3 v -10.5 h -3 v -10.5 h 3 v -10.5 h -3 v -10.5 h 3 V 86.25 83 Z"
      id="front_outsideCutPath"
@@ -120,16 +121,12 @@
      stroke-width="0.1"
      style="font-size:12px;fill:none;fill-rule:evenodd;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round"
      vector-effect="non-scaling-stroke" />
-  <circle
-     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+  <path
      id="path844"
-     cx="30"
-     cy="18.049999"
-     r="2" />
-  <circle
-     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-     id="path844-3"
-     cx="30"
-     cy="58.049999"
-     r="2" />
+     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 30.000258,10.05 c -1.104569,0 -1.818436,0.910313 -1.999878,1.999877 l -0.815971,4.898409 a 4.435058,4.435058 0 0 0 -1.619539,3.426665 4.435058,4.435058 0 0 0 4.435388,4.434871 4.435058,4.435058 0 0 0 4.434872,-4.434871 4.435058,4.435058 0 0 0 -1.624708,-3.430799 L 32.000135,12.049877 C 31.823664,10.984281 31.104828,10.05 30.000258,10.05 Z" />
+  <path
+     id="path844-5"
+     style="fill:none;stroke:#ff0000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 30.000258,50.05 c -1.104568,0 -1.818437,0.910312 -1.999877,1.999877 l -0.815972,4.898409 a 4.435058,4.435058 0 0 0 -1.61954,3.426664 4.435058,4.435058 0 0 0 4.435389,4.434871 4.435058,4.435058 0 0 0 4.434872,-4.434871 4.435058,4.435058 0 0 0 -1.624709,-3.430798 L 32.000135,52.049877 C 31.823663,50.984281 31.104827,50.05 30.000258,50.05 Z" />
 </svg>
